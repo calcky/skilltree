@@ -8,6 +8,11 @@
       "name": "quality-review-plugin",
       "source": "./plugins/quality-review-plugin",
       "description": "Adds a quality-review skill for quick code reviews"
+    },
+    {
+      "name": "tech-breakdown-plugin",
+      "source": "./plugins/tech-breakdown-plugin",
+      "description": "Learn any technology through a structured 3-part breakdown: what, why, and how"
     }
   ]
 }
